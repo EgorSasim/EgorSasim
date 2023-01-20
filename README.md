@@ -22,6 +22,7 @@ When I have a free time(it happens rarely) I prefer to do such things as:
   6. Watch film(not only about how install gentoo))
 
      References:
+     
   LinkedIn: www.linkedin.com/in/egor-sasim-022788214
 
 
