@@ -1,42 +1,82 @@
-### Hi there 👋
+# Hello, my name is Egor 
 
-     Educatcion:
-Nowadays I am a third year student at BSUIR(https://www.bsuir.by/en/)
-on the Faculty of Computer Systems and Networks with Software for Information Technologies specialization
+## About me
 
-     Job:
-Now I'm working as Junior FrontEnd developer.
-During my job I'm motly working with next technologies:
-1. Javascript
-2. Typescript
-3. Angular(inluding usage of rxjs for asynchronous programming and jasmine for writing tests)
-P.S: Working on Linux OS(Ubuntu 18.04)
+Enthusiastic and results-oriented Angular Developer with 2+ years of commercial experience building high-quality, scalable single-page applications (SPAs) for diverse clients. Expertise in Angular framework, including components, directives, services, and modules. Proficient in TypeScript, HTML5, CSS3, SCSS, and JavaScript. Passionate about creating intuitive and user-friendly interfaces that drive business growth.
 
-     Hobbies:
-When I have a free time(it happens rarely) I prefer to do such things as: 
-  1. Play a guitar
-  2. Read books(not only technical but also imaginative literature(King, Victor Hugo, Dostoevsky, Maria Remarque, etc...)
-  3. Do sport
-  4. Ride a bycicle
-  5. Walking
-  6. Watch film(not only about how install gentoo))
+## Social Networks
 
-     References:
-   
-   LinkedIn: www.linkedin.com/in/egor-sasim-022788214
+* email: egorsasim@mail.ru
+* telegram: @EgorSasim
+* linkedIn: linkedin.com/in/egor-sasim-022788214
 
+## 🛠 Main Technologies
+<div align="left">
+  <img src="assets/angularLogo.png" height="40" alt="angular logo"  />
+  <img width="12" />
+  <img src="assets/typeScriptLogo.png" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+</div>
 
-<!--
-**EgorSasim/EgorSasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Extra Technologies
 
-Here are some ideas to get you started:
+* C/C++
+* Arduino
+* Networks
+* Linux Kernel
+* Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Instruments
+
+* VSCode
+* Ubuntu Linux
+* Artix Linux
+* Jira
+* Confluence
+
+## Working experience
+
+2+ years of Angular commercial experience in [Atlas Acme company](https://www.park.by/en/residents/atlas-acme/) 
+
+## Education
+
+Belarusian State University of Informatics and Radioelectronics.
+ Faculty of Computer Systems and Networks.
+ Academic department of Software for Information Technologies.
+
+## Languages
+
+* English (Upper Intermediate)
+* Russian (Native)
+* Belarussian (Native)
+
+## Soft skills
+
+* Excellent communication and collaboration skills: Adept at clearly conveying technical concepts to both technical and non-technical audiences. Thrive in collaborative environments, fostering open communication and active listening to achieve project goals.
+* Problem-Solving and Analytical Skills: Possess a strong ability to identify and troubleshoot complex technical issues, developing efficient and innovative solutions.
+* Adaptability and Continuous Learning: Embrace new technologies and frameworks, demonstrating a commitment to continuous learning and professional development.
+* Time Management and Organization: Effectively manage multiple tasks and deadlines, prioritizing work to ensure timely project completion.
+
+## Projects:
+
+* [Diary and finances tracker](https://github.com/EgorSasim/diary-finances-tracker-app)
+ 
+
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorSasim)](https://github.com/anuraghazra/github-readme-stats)
+
