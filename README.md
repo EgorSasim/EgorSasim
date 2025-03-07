@@ -75,8 +75,11 @@ Belarusian State University of Informatics and Radioelectronics.
 
 ## Projects:
 
-* [Diary and finances tracker](https://github.com/EgorSasim/diary-finances-tracker-app)
- 
+* [Diary and finances tracker](https://github.com/EgorSasim/diary-finances-tracker-app) 
+* [Netwide ASSEMBLER simple game](https://github.com/EgorSasim/appleEaterNasm)
+* [To Do app](https://github.com/EgorSasim/to-do-simple-app)
+* [Weater forecast app](https://github.com/EgorSasim/weather-forecast-simple-app)
+* [Tic-tac-toe game](https://github.com/EgorSasim/TicTacToe)
 
 ## Stats
 
