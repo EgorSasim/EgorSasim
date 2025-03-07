@@ -14,6 +14,8 @@ Enthusiastic and results-oriented Angular Developer with 2+ years of commercial 
 <div align="left">
   <img src="assets/angularLogo.png" height="40" alt="angular logo"  />
   <img width="12" />
+  <img src="assets/reactLogo.png" height="40" alt="react logo"  />
+  <img width="12" />
   <img src="assets/typeScriptLogo.png" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
