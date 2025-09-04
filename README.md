@@ -2,7 +2,7 @@
 
 ## About me
 
-Enthusiastic and results-oriented Angular Developer with 2+ years of commercial experience building high-quality, scalable single-page applications (SPAs) for diverse clients. Expertise in Angular framework, including components, directives, services, and modules. Proficient in TypeScript, HTML5, CSS3, SCSS, and JavaScript. Passionate about creating intuitive and user-friendly interfaces that drive business growth.
+Enthusiastic and results-oriented Angular Developer with 3+ years of commercial experience building high-quality, scalable single-page applications (SPAs) for diverse clients. Expertise in Angular framework, including components, directives, services, and modules. Proficient in TypeScript, HTML5, CSS3, SCSS, and JavaScript. Passionate about creating intuitive and user-friendly interfaces that drive business growth.
 
 ## Social Networks
 
