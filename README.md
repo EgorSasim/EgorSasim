@@ -81,7 +81,4 @@ Belarusian State University of Informatics and Radioelectronics.
 * [Weater forecast app](https://github.com/EgorSasim/weather-forecast-simple-app)
 * [Tic-tac-toe game](https://github.com/EgorSasim/TicTacToe)
 
-## Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorSasim)](https://github.com/anuraghazra/github-readme-stats)
 
