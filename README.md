@@ -52,7 +52,7 @@ Enthusiastic and results-oriented Angular Developer with 3+ years of commercial 
 
 ## Working experience
 
-2+ years of Angular commercial experience in [Atlas Acme company](https://www.park.by/en/residents/atlas-acme/) 
+4.5+ years of Angular commercial experience in [Atlas Acme company](https://www.park.by/en/residents/atlas-acme/) 
 
 ## Education
 
