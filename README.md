@@ -45,6 +45,7 @@ Enthusiastic and results-oriented Angular Developer with 4+ years of commercial 
 ## Instruments
 
 * VSCode
+* Cursor
 * Ubuntu Linux
 * Artix Linux
 * Jira
