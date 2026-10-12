@@ -6,7 +6,7 @@ Enthusiastic and results-oriented Angular Developer with 4+ years of commercial 
 
 ## Social Networks
 
-* email: egorsasim@mail.ru
+* email: egorsasim624@gmail.com
 * telegram: @Briarey0
 * linkedIn: linkedin.com/in/egor-sasim-022788214
 
