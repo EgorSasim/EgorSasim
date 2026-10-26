@@ -7,7 +7,8 @@
 ## Experience
 
 - **Ridotto** — Senior Frontend Engineer · Aug 2026 — present
-- **Atlas Acme** — Senior Frontend Engineer · Sep 2022 — Aug 2026
+  - Feature owner in sub-teams: whole features from requirements and customer alignment to release
+- **Atlas Acme** — Frontend Engineer, Trainee → Senior · Sep 2022 — Aug 2026
   - AI-assisted migration to the current Angular architecture without months of manual rewrites
   - Product core: video player, camera archive playback, streaming UI, event monitoring, video walls
   - Performance of heavy screens, Figma style-export scripts, mentoring and code review
