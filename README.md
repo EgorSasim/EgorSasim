@@ -1,85 +1,35 @@
-# Hello, my name is Egor 
+# Egor Sasim — Senior Frontend Engineer (Angular)
 
-## About me
+4+ years of commercial Angular on a large video analytics platform: video player, camera archive, event monitoring, and operator screens where UI mistakes are costly. I use AI agents to speed up migrations to modern Angular and routine work, and own architecture, code review, and production quality.
 
-Enthusiastic and results-oriented Angular Developer with 4+ years of commercial experience building high-quality, scalable single-page applications (SPAs) for diverse clients. Expertise in Angular framework, including components, directives, services, and modules. Proficient in TypeScript, HTML5, CSS3, SCSS, and JavaScript. Passionate about creating intuitive and user-friendly interfaces that drive business growth.
+[Portfolio](https://acame-scream.ru) · CV: [EN](https://acame-scream.ru/assets/EgorSasim-CV-EN.pdf) / [RU](https://acame-scream.ru/assets/EgorSasim-CV-RU.pdf) · [LinkedIn](https://www.linkedin.com/in/egor-sasim-022788214) · Telegram [@Briarey0](https://t.me/Briarey0) · egorsasim624@gmail.com
 
-## Social Networks
+## Experience
 
-* email: egorsasim624@gmail.com
-* telegram: @Briarey0
-* linkedIn: linkedin.com/in/egor-sasim-022788214
+- **Ridotto** — Senior Frontend Engineer · Aug 2026 — present
+- **Atlas Acme** — Senior Frontend Engineer · Sep 2022 — Aug 2026
+  - AI-assisted migration to the current Angular architecture without months of manual rewrites
+  - Product core: video player, camera archive playback, streaming UI, event monitoring, video walls
+  - Performance of heavy screens, Figma style-export scripts, mentoring and code review
 
-## 🛠 Main Technologies
-<div align="left">
-  <img src="assets/angularLogo.png" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="assets/reactLogo.png" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="assets/expoLogo.png" height="40" alt="expo logo"  />
-  <img width="12" />
-  <img src="assets/typeScriptLogo.png" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-</div>
+## Stack
 
-## Extra Technologies
+- **Core:** Angular, TypeScript, RxJS, Signals, HTML, SCSS
+- **Angular ecosystem:** Angular CDK, Angular Material, Taiga UI, PrimeNG, NgRx, NGXS, RxAngular, Transloco, Angular SSR
+- **Engineering:** Git / GitLab, REST API, Webpack, Vite, component harnesses, Figma, AI agents (Cursor)
+- **Also worked with:** React, Vue, NestJS, Node.js, Go, C, NASM
 
-* C/C++
-* Arduino
-* Networks
-* Linux Kernel
-* Python
+## Selected projects
 
-## Instruments
+| Project | Stack | What it does |
+| --- | --- | --- |
+| [bank-product-pages](https://github.com/EgorSasim/bank-product-pages) | Angular SSR, NestJS, PostgreSQL | Server-driven bank marketing pages built from shared blocks |
+| [vscan](https://github.com/EgorSasim/vscan) | Go | CLI and Telegram bot that scans developer job boards on a schedule |
+| [diary-finances-tracker-app](https://github.com/EgorSasim/diary-finances-tracker-app) | Angular, NestJS, TypeORM, PostgreSQL | Full-stack notes, habits, and spending tracker with JWT auth |
+| [ReactiveStorage](https://github.com/EgorSasim/ReactiveStorage) | TypeScript, RxJS | Reactive wrapper around local/sessionStorage |
+| [Modern CSS talk site](https://github.com/EgorSasim/new_css_and_remove_angular_animations_presentation_site) | HTML, SCSS | Talk about modern CSS and dropping Angular Animations |
+| [appleEaterNasm](https://github.com/EgorSasim/appleEaterNasm) | NASM, x86 | Terminal game written in assembly |
 
-* VSCode
-* Cursor
-* Ubuntu Linux
-* Artix Linux
-* Jira
-* Confluence
+## Education and languages
 
-## Working experience
-
-4+ years of Angular commercial experience in [Synesis](https://www.park.by/en/residents/atlas-acme/) 
-
-## Education
-
-Belarusian State University of Informatics and Radioelectronics.
- Faculty of Computer Systems and Networks.
- Academic department of Software for Information Technologies.
-
-## Languages
-
-* English (Upper Intermediate)
-* Russian (Native)
-* Belarussian (Native)
-
-## Soft skills
-
-* Excellent communication and collaboration skills: Adept at clearly conveying technical concepts to both technical and non-technical audiences. Thrive in collaborative environments, fostering open communication and active listening to achieve project goals.
-* Problem-Solving and Analytical Skills: Possess a strong ability to identify and troubleshoot complex technical issues, developing efficient and innovative solutions.
-* Adaptability and Continuous Learning: Embrace new technologies and frameworks, demonstrating a commitment to continuous learning and professional development.
-* Time Management and Organization: Effectively manage multiple tasks and deadlines, prioritizing work to ensure timely project completion.
-
-## Projects:
-
-* [Diary and finances tracker](https://github.com/EgorSasim/diary-finances-tracker-app) 
-* [Netwide ASSEMBLER simple game](https://github.com/EgorSasim/appleEaterNasm)
-* [To Do app](https://github.com/EgorSasim/to-do-simple-app)
-* [Weater forecast app](https://github.com/EgorSasim/weather-forecast-simple-app)
-* [Tic-tac-toe game](https://github.com/EgorSasim/TicTacToe)
-
-
+BSUIR, Software of Information Technologies, 2020–2024 · English: Upper-Intermediate · Russian, Belarusian: native
