@@ -21,7 +21,7 @@
 
 Senior Frontend Engineer (Senior Angular Developer) with 4+ years of commercial Angular 14–21 on a video analytics platform: 75,000–200,000+ cameras per customer worldwide and a 340k-line codebase. Feature owner from requirements and customer alignment to release. I architected the AI-assisted migration (LLM agents, multi-agent orchestration in Cursor) that moved the product to standalone components and signals.
 
-📍 Minsk, Belarus · open to remote
+**Open to Middle+, Senior, and Lead frontend roles:** remote, hybrid, on-site, or relocation. 📍 Minsk, Belarus
 
 ## Highlights
 
@@ -36,13 +36,12 @@ Senior Frontend Engineer (Senior Angular Developer) with 4+ years of commercial 
 
 ## Experience
 
-**Ridotto** — Senior Frontend Engineer · Aug 2026 — present
+**Atlas Acme** — Senior Frontend Engineer · Sep 2022 — Nov 2026 · promoted Trainee → Junior (Nov 2022) → Middle (Jan 2024) → Senior (Sep 2025)
+
+In Aug 2026, as Atlas Acme was being closed, transferred to Ridotto, a sister company within the same group.
 
 - Feature owner in sub-teams: requirements, architecture, release, and support, working directly with customers, backend, QA, and design. Latest: integration with external video management systems (VMS).
 - Review 50+ merge requests a week and own urgent release-blocking fixes: zero release slips caused by my work.
-
-**Atlas Acme** — Senior Frontend Engineer · Sep 2022 — Aug 2026 · promoted Trainee → Junior → Frontend Engineer → Senior
-
 - Led the AI-assisted migration to standalone components and signals: a Cursor migration skill and a multi-agent orchestrator the whole team adopted. NgModules 364 → 29 (−92%), up to 8 LLM agents in parallel, each gated by unit tests, lint, and a production build.
 - Maintained a design system of 263 components: automated Figma → SCSS token pipeline (198 tokens per theme) and an `ng update` schematic with 59 automatic renames.
 - Led features end to end: ONVIF cameras with on-camera archive, video walls, license plates, Leaflet maps and floor plans, search and filters.
